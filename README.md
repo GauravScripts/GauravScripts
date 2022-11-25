@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asdfvaruag
 - 👀 I’m interested in Programing with Java, JAMStack, NodeJs, TypeScript
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on web and cloud based project
 - 📫 Reachme through email alwar.gaurav1@gmail.com
 
