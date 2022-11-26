@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @asdfvaruag
-- 👀 I’m interested in Programing with Java, JAMStack, NodeJs, TypeScript
+- 👋 Hi, I’m @asdfvaruag aka Gaurav Gupta
+- 📚 I’m having knowledge of Java, JUnit, MySql, HTML5, CSS, BootStrap, JavaScipt, Document Object Model, Angular. 
+- 👀 I’m interested in Programing with Java, TypeScript.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on web and cloud based project
 - 📫 Reachme through email alwar.gaurav1@gmail.com
