@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ElasticSearch, Neo4j**
 
-- 👨‍💻 All of my projects are available at [https://github.com/asdfvaruag](https://github.com/asdfvaruag)
+- 👨‍💻 All of my projects are available at [https://github.com/asdfvaruag](https://github.com/GauravScripts)
 
 - 💬 Ask me about **Angular,Spring Framework**
 
