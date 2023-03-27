@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/asdf_gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/asdf_gaurav?logo=twitter&style=for-the-badge" alt="asdf_gaurav" /></a> </p>
 
-- 🔭 I’m currently working on **Soulmate Web App**
-
 - 🌱 I’m currently learning **ElasticSearch, Neo4j**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GauravScripts](https://github.com/GauravScripts)
