@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular,Spring Framework**
 
-- 📫 How to reach me **alwar.gaurav1@gmail.com**
+- 📫 How to reach me **gaurav.jindoli@gmail.com**
 
 - ⚡ Fun fact **I love to play Games**
 
