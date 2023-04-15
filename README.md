@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GauravScripts](https://github.com/GauravScripts)
-
 - 💬 Ask me about **Angular, Spring Framework**
 
 - 📫 How to reach me **gaurav.jindoli@gmail.com**
