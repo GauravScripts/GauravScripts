@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/asdf_gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/asdf_gaurav?logo=twitter&style=for-the-badge" alt="asdf_gaurav" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Multi-Threading and Memory Management**
 
 - 💬 Ask me about **Java, Angular, Spring Framework**
 
