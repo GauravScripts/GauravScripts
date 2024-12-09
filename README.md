@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav;I'm+Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav;I'm+Full+Stack+Sr.+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 <img align="right" alt="Coding" height="350rem"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GauravScripts&label=Profile%20views&color=0e75b6&style=flat" alt="asdfvaruag" /> </p>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Multi-Threading and Memory Management**
 
-- 💬 Ask me about **Java, Angular, Spring Framework**
+- 💬 Ask me about **Java 21, Angular 17, SpringBoot**
 
 - 📫 How to reach me **gaurav.jindoli@gmail.com**
 
