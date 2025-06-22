@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gaurav.jindoli@gmail.com**
 
-- ⚡ Fun fact **I love to play Games**
+- ⚡ Fun fact **I love to reading Books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
