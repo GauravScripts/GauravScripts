@@ -33,3 +33,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravScripts&show_icons=true&locale=en" alt="GauravScripts" /></p>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/GauravScripts/GauravScripts/851690ef7929d901b11fc52e050854ca88d11be3/img/github-user-contribution.svg" alt="asdfvaruag" /> </p>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravScripts&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
