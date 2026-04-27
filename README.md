@@ -1,44 +1,101 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav;I'm+Full+Stack+Sr.+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-<img align="right" alt="Coding" height="350px" width="350px"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GauravScripts&label=Profile%20views&color=0e75b6&style=flat" alt="asdfvaruag" /> </p>
 
-<p align="left"> <a href="https://twitter.com/asdf_gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/asdf_gaurav?logo=twitter&style=for-the-badge" alt="asdf_gaurav" /></a> </p>
+---
 
-- 🌱 I’m currently learning ** Spring AI and Vector Database**
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="60%" style="border:none;">
 
+<img src="https://komarev.com/ghpvc/?username=GauravScripts&label=Profile%20views&color=0e75b6&style=flat" alt="GauravScripts" />
+&nbsp;
+<a href="https://twitter.com/asdf_gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/asdf_gaurav?logo=twitter&style=for-the-badge" alt="asdf_gaurav" /></a>
+
+<br/>
+
+- 🌱 I'm currently learning **Spring AI and Vector Database**
 - 💬 Ask me about **Java, Angular, React, SpringBoot, gRPC, Kafka, Microservices, Micro-frontend, Database**
-
 - 📫 How to reach me **gaurav.jindoli@gmail.com**
+- ⚡ Fun fact **I love reading Books**
 
-- ⚡ Fun fact **I love to reading Books**
+</td>
+<td valign="top" width="40%" style="border:none;">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asdf_gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asdf_gaurav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav-gupta-9aa267252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-gupta-9aa267252/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alwar_gaurav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alwar_gaurav1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user7645tl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7645tl" height="30" width="40" /></a>
-</p><a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<img alt="Coding" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gauravscripts&column=10&theme=gruvbox&no-frame=true)](https://github.com/gauravscripts)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://wakatime.com/share/@cda9dd61-cfbb-496a-875b-fb0272c7f0dc/f589cadd-0740-4668-9611-9ecb7427040e.svg" alt="alt_text" height="400" width="400">
-</p><span>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravscripts&theme=discord_old_blurple"  alt="graph"/></span>
- 
- <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravscripts&theme=discord_old_blurple"  alt="graph"/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravScripts&show_icons=true&locale=en" alt="GauravScripts" /></p>
+---
 
-<p align="left"> <img src="https://raw.githubusercontent.com/GauravScripts/GauravScripts/851690ef7929d901b11fc52e050854ca88d11be3/img/github-user-contribution.svg" alt="asdfvaruag" /> </p>
+### 🤝 Connect with me
+
+<a href="https://twitter.com/asdf_gaurav" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/gaurav-gupta-9aa267252/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;<a href="https://www.hackerrank.com/alwar_gaurav1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>&nbsp;<a href="https://www.leetcode.com/user7645tl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+
+---
+
+## 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gauravscripts&column=7&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)](https://github.com/gauravscripts)
+
+---
+
+### 🛠️ Languages and Tools
+
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td style="border:none;"><a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://circleci.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+</tr>
+<tr>
+<td style="border:none;"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a></td>
+<td style="border:none;"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://wakatime.com/share/@cda9dd61-cfbb-496a-875b-fb0272c7f0dc/f589cadd-0740-4668-9611-9ecb7427040e.svg" alt="Wakatime Stats" height="300" width="380"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravscripts&theme=discord_old_blurple" alt="Profile Details" width="100%"/>
+
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td style="border:none;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravscripts&theme=discord_old_blurple" alt="Repos per Language"/>
+</td>
+<td style="border:none;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravScripts&show_icons=true&locale=en&theme=discord_old_blurple" alt="GauravScripts GitHub Stats"/>
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/GauravScripts/GauravScripts/851690ef7929d901b11fc52e050854ca88d11be3/img/github-user-contribution.svg" alt="Contribution Graph" width="100%"/>
 
 ---
 
 ## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravScripts&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravScripts&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
