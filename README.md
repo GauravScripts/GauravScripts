@@ -20,7 +20,7 @@
 </td>
 <td valign="top" width="40%" style="border:none;">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gauravscripts/profile-3d/main/profile-3d.svg" alt="3D Profile Stats" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=gauravscripts&theme=dark&stats=true" alt="3D Contributions" />
 </p>
 <img alt="Coding" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="100%"/>
 
