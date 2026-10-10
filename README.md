@@ -4,13 +4,14 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="60%" style="border:none;">
+<!-- LEFT COLUMN: 20% Width -->
+<td valign="top" width="30%" style="border:none; min-width: 150px;">
 
 <img src="https://komarev.com/ghpvc/?username=GauravScripts&label=Profile%20views&color=0e75b6&style=flat" alt="GauravScripts" />
 &nbsp;
 <a href="https://twitter.com/asdf_gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/asdf_gaurav?logo=twitter&style=for-the-badge" alt="asdf_gaurav" /></a>
 
-<br/>
+<br/><br/>
 
 - 🌱 I'm currently learning **Spring AI and Vector Database**
 - 💬 Ask me about **Java, Angular, React, SpringBoot, gRPC, Kafka, Microservices, Micro-frontend, Database**
@@ -18,12 +19,18 @@
 - ⚡ Fun fact **I love reading Books**
 
 </td>
-<td valign="top" width="40%" style="border:none;">
-<p align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=gauravscripts&theme=dark&stats=true" alt="3D Contributions" />
-</p>
-<img alt="Coding" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="100%"/>
 
+<!-- RIGHT COLUMN: 80% Width -->
+<td valign="top" width="80%" style="border:none;">
+<p align="center" style="margin: 0;">
+  <a href="https://github.com/gauravscripts" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=gauravscripts&theme=dark&stats=true" 
+      alt="3D Contributions" 
+      style="width: 100%; max-width: 1000px; display: block;" 
+    />
+  </a>
+</p>
 </td>
 </tr>
 </table>
