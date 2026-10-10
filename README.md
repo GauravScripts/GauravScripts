@@ -25,7 +25,7 @@
 <p align="center" style="margin: 0;">
   <a href="https://github.com/gauravscripts" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=gauravscripts&theme=dark&stats=true" 
+      src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=gauravscripts&theme=light&stats=true" 
       alt="3D Contributions" 
       style="width: 100%; max-width: 1000px; display: block;" 
     />
