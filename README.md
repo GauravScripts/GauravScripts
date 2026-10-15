@@ -43,11 +43,6 @@
 
 ---
 
-## 🏆 Github Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gauravscripts&column=7&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)](https://github.com/gauravscripts)
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -101,10 +96,4 @@
 
 <img src="https://raw.githubusercontent.com/GauravScripts/GauravScripts/851690ef7929d901b11fc52e050854ca88d11be3/img/github-user-contribution.svg" alt="Contribution Graph" width="100%"/>
 
----
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravScripts&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
